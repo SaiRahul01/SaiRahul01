@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **ReactJs and NodeJs related Projects**
+- 👯 I’m looking to collaborate on **ReactJs and NodeJs  Projects**
 
 - 📫 Reach me **f20200204@hyderabad.bits-pilani.ac.in**
 
