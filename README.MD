@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **ReactJs and NodeJs  Projects**
 
