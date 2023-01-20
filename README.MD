@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **ReactJs and NodeJs  Projects**
+- 👯 I’m looking to collaborate on **Web-Dev and DL  Projects**
 
 - 📫 Reach me **f20200204@hyderabad.bits-pilani.ac.in**
 
