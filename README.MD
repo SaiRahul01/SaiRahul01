@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Web-Dev and DL  Projects**
 
-- 📫 Reach me **f20200204@hyderabad.bits-pilani.ac.in**
+- 📫 Reach me **sairahul0411@gmail.com**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
